@@ -5,7 +5,7 @@ Welcome to my personal Node.js mastery journey!
 This repository documents everything I’m learning, exploring, and understanding from the internals of Node.js, inspired by Akshay Saini’s Namaste Node.js and real-world backend systems.
 
 ### 📚 Topics Covered
-🔹 - 🔹 [**Optional Chaining (`?.`)**](./optional_chaining.md)
+🔹 - 🔹 [**Optional Chaining (`?.`)**](./dive_deep/optional_chaining.md)
 → Understanding how it safely accesses deep properties and replaces nested if checks.
 
 🔹 "use strict" – Why it's used everywhere (coming soon)
